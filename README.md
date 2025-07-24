@@ -83,8 +83,8 @@ This system reduces water waste by 30-40% and improves crop yields by integratin
 
 ## Team
 
-- Abhishek V K
 - Vishal Prakash Daimane
+- Abhishek V K
 - N Chinmaya
 - Rohan P Kulkarni
 
